@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terminal", "Terminal\Terminal.csproj", "{5BEBACF2-F0DE-44B2-8B9C-BFA268721B9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Teste|Any CPU = Teste|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BEBACF2-F0DE-44B2-8B9C-BFA268721B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEBACF2-F0DE-44B2-8B9C-BFA268721B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEBACF2-F0DE-44B2-8B9C-BFA268721B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEBACF2-F0DE-44B2-8B9C-BFA268721B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BEBACF2-F0DE-44B2-8B9C-BFA268721B9D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5BEBACF2-F0DE-44B2-8B9C-BFA268721B9D}.Teste|Any CPU.ActiveCfg = Teste|Any CPU
+		{5BEBACF2-F0DE-44B2-8B9C-BFA268721B9D}.Teste|Any CPU.Build.0 = Teste|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
