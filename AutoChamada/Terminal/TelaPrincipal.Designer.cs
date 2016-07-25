@@ -121,8 +121,8 @@
             this.ePauta10BrunostrikifpredubrToolStripMenuItem.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
             this.ePauta10BrunostrikifpredubrToolStripMenuItem.Enabled = false;
             this.ePauta10BrunostrikifpredubrToolStripMenuItem.Name = "ePauta10BrunostrikifpredubrToolStripMenuItem";
-            this.ePauta10BrunostrikifpredubrToolStripMenuItem.Size = new System.Drawing.Size(207, 20);
-            this.ePauta10BrunostrikifpredubrToolStripMenuItem.Text = "ePauta 1.0 - bruno.strik@ifpr.edu.br";
+            this.ePauta10BrunostrikifpredubrToolStripMenuItem.Size = new System.Drawing.Size(216, 20);
+            this.ePauta10BrunostrikifpredubrToolStripMenuItem.Text = "ePauta 1.0.2 - bruno.strik@ifpr.edu.br";
             // 
             // TelaPrincipal
             // 

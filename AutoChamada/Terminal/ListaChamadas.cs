@@ -303,6 +303,7 @@ namespace Terminal
         private void diaLetivoSimplesToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Chamada c = new Chamada();
+            c.Dia = DateTime.Now;
             Program.formObservacoesChamada = new FormChamada(c);
             Program.formObservacoesChamada.ShowDialog();
         }

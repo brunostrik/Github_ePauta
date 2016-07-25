@@ -306,6 +306,7 @@
     <None Include="Resources\book_edit.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="0-Projeto.txt" />
     <Content Include="favicon.ico" />
     <None Include="Resources\table_gear.png" />
     <None Include="Resources\page_white_magnify.png" />
